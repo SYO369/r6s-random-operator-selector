@@ -72,7 +72,7 @@ export const OPERATORS: Operator[] = [
   { id: 'azami', name: 'Azami', side: Side.DEFENDER, role: ['Anchor', 'Support'], speed: 2, health: 2, gadget: 'Kiba Barrier', iconType: 'support' },
   { id: 'solis', name: 'Solis', side: Side.DEFENDER, role: ['Roamer', 'Intel'], speed: 2, health: 2, gadget: 'SPEC-IO Sensor', iconType: 'intel' },
   { id: 'fenrir', name: 'Fenrir', side: Side.DEFENDER, role: ['Trap', 'Crowd Control'], speed: 2, health: 2, gadget: 'F-NATT Mines', iconType: 'trap' },
-  { id: 'tubarao', name: 'Tubarão', side: Side.DEFENDER, role: ['Anchor', 'Support'], speed: 2, health: 2, gadget: 'Zoto Canister', iconType: 'support' },
+  { id: 'tubarao', name: 'Tubarao',side: Side.DEFENDER, role: ['Anchor', 'Support'], speed: 2, health: 2, gadget: 'Zoto Canister', iconType: 'support' },
   { id: 'sentry', name: 'Sentry', side: Side.DEFENDER, role: ['Anchor', 'Support'], speed: 2, health: 2, gadget: 'Versatile Defense', iconType: 'support' },
-  { id: 'skopos', name: 'Skopós', side: Side.DEFENDER, role: ['Anchor', 'Intel'], speed: 2, health: 2, gadget: 'V10 Pantheon Shells', iconType: 'intel' },
+  { id: 'skopos', name: 'Skopos', side: Side.DEFENDER, role: ['Anchor', 'Intel'], speed: 2, health: 2, gadget: 'V10 Pantheon Shells', iconType: 'intel' },
 ];
