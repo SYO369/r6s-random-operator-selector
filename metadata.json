@@ -1,0 +1,5 @@
+{
+  "name": "R6S Random Operator Selector",
+  "description": "A tactical random operator picker for Rainbow Six Siege OBS Overlay.",
+  "requestFramePermissions": []
+}
