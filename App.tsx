@@ -8,7 +8,7 @@ const App: React.FC = () => {
   const [defOp, setDefOp] = useState<Operator | null>(null);
   const [rollingAtk, setRollingAtk] = useState(false);
   const [rollingDef, setRollingDef] = useState(false);
-  const [chromaMode, setChromaMode] = useState(false);
+  const [chromaMode, setChromaMode] = useState(true);
   const [showControls, setShowControls] = useState(true);
 
   const getRandomOperator = (side: Side) => {
